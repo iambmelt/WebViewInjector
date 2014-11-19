@@ -3,3 +3,6 @@ bin/
 
 # gen files
 gen/
+
+# svn junk
+.svn
