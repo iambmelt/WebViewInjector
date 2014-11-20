@@ -36,9 +36,6 @@ Apache v2
 **This is terrible**<br/>
 That's not a question.
     
-**Does this work with iFrames?**<br/>
-Depending on what you're trying to do, but probably not. Open an issue and we can hash out what you'd like it to do.
-    
 **A note from the author:** <br/>
 By using this, you're conceivably exposing yourself to XSS vulnerabilities.
 
